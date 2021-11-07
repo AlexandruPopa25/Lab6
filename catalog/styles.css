@@ -1,0 +1,16 @@
+body {background-color: lightblue;}
+h1 {color: tomato;}
+li {color: violet;}
+ul {color: orange;}
+
+h1 {font-family: "Garamond";
+    font-style: italic;
+	font-size: 36px;}
+   
+img {border-radius: 12px;
+     width: 250px;
+	 display: block;
+	 padding: 2px;
+	 margin: left;
+	 opacity: 0.6;
+	 }
